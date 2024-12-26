@@ -5,6 +5,16 @@ title: Moment
 ---
 
 # My Life
+## 2024.12
+
+MACLEHOSE TRAIL Hiking.
+<br>
+
+<div>
+<img src="https://lutaoyan.github.io/images/moment/12hike.jpg">
+</div>
+
+<br>
 
 ## 2024.8
 
